@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: seguranca
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: luvme
+Implementation-Vendor-Id: br.com.coti
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/seguranca
+Created-By: Maven Integration for Eclipse
+
