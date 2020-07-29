@@ -1,19 +1,7 @@
-echo "# segurancaMaven" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/LucianaMedeiros/segurancaMaven.git
-git push -u origin master
+# Projeto Segurança em Java utilizando Maven
 
-PARA INSTALAR O GITHUB COM LINUX:
-sudo apt install git
+## Projeto feito em aula com os alunos da Coti Informatica
 
-NO WINDOWS:
-https://gitforwindows.org/
-
-git config --global user.email 'lu.vmedeiros@gmail.com'
-git config --global user.name 'LucianaMedeiros'
-
-
-
-                
+* **Professor:** Edson Belem
+* **Contato:** profedsonbelem@gmail.com
+* **Celular:** +55 (21) 98199-0108
